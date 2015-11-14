@@ -17,6 +17,36 @@
 
 /* implementação do patreze */
 
+	/* ITEM 10 */
+		body {
+		    margin: 0;
+		}
+		.intro header {
+		    position: fixed;
+		    float: left;
+		    height: 100%;
+		    width: 20%;
+		    background: red;
+		}
+		.summary,
+		.preamble {
+		    margin-left: 20%;
+		    position: absolute;
+		    width: 50%;
+		}
+		.main {
+		    position: absolute;
+		    width: 50%;
+		    background: purple;
+		    margin-left: 20%;
+		}
+		.sidebar {
+		    float: right;
+		    width: 30%;
+		    background: green;
+		}
+	/* FIM DO ITEM 10 */
+
 /* implementação da thayná */
 
 /* implementação da vitória */
