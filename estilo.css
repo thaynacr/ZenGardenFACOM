@@ -22,3 +22,103 @@
 /* implementação da thayná */
 
 /* implementação da vitória */
+/*imagem única do fundo - item 6*/
+body{
+	background: #122981 url(stnasa.jpg);
+	background-attachment: absolute;
+}
+/*imagem e título do lado - item 3*/
+.page-wrapper {
+	width:500px;
+	padding: 50px;
+	position:relative;
+	/*left:30%;
+	margin-left:-198px;
+	bottom: 200px;*/
+	margin-top: 0px;
+	text-align: justify;
+	color:white;
+}
+/*Isso eu nem imagino pra que serve*/
+* html .page-wrapper{ /*IE FIX*/
+	margin-left:-197px;
+}
+
+.intro header {
+	top:0px;
+	width:250px;
+	height:400px;
+	z-index: 1;
+	left:25%;
+	margin-left:-300px;
+	position:fixed;
+	background: #122981 url(stnasa.jpg);
+}
+
+h1,h2 {
+  position: absolute;
+  color: #ffffff;
+  font-size: 150%;
+  line-height: 2em;
+  top: 110px;
+  margin-left:-50px;
+  padding: 1em;
+  width: 300px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+
+  -webkit-transform: rotate(-90deg); 
+  -moz-transform: rotate(-90deg);
+  -ms-transform: rotate(-90deg);
+  -o-transform: rotate(-90deg);
+  /*Ainda n sei  pra que isso serve*/
+  filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3); 
+}
+
+h2 {
+	margin-left:-0px;
+  font-size: 100%;
+  top: 100px;
+}
+
+.summary {
+	top: 0px;
+	position: absolute;
+	width: 50%;
+	left:50%;
+	margin-left:-50px;
+}
+.preamble {
+	top: 150;
+	position: absolute;
+	width: 50%;
+	left:50%;
+	margin-left:-50px;
+}
+.main {
+	top: 600px;
+	position: absolute;
+	width: 50%;
+	left:50%;
+	margin-left:-50px;
+}
+.sidebar {
+	width: 50%;
+	position: absolute;
+	left:120%;
+	margin-left:-50px;
+}
+
+/*Imagem embaixo do título do lado*/
+/*Ideia da imagem dos planetas*/
+.extra3{
+   	top:350px;
+	width:250px;
+	height: 3015;/*Ajustar de acordo com a altura que ficar na página - só se for absolute*/
+	background:url(planetas.png) no-repeat;
+	z-index: 1;
+	left:25%;
+	margin-left:-300px;
+	position:absolute;
+}
