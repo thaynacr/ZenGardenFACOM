@@ -24,7 +24,7 @@
 /* implementação da vitória */
 /*imagem única do fundo - item 6*/
 body{
-	background: #122981 url(imagens/stnasa.jpg);
+	background: #122981 url(imagens/stnasa.png);
 	background-attachment: absolute;
 }
 /*imagem e título do lado - item 3*/
@@ -46,13 +46,13 @@ body{
 
 .intro header {
 	top:0px;
-	width:200px;
+	width:150px;
 	height:400px;
 	z-index: 1;
-	left:25%;
+	left:60%;
 	margin-left:-300px;
 	position:fixed;
-	background: #122981 url(imagens/stnasa.jpg);
+	background: #122981 url(imagens/stnasa.png);
 }
 
 h1,h2 {
@@ -114,8 +114,8 @@ h2 {
 /*Ideia da imagem dos planetas*/
 .extra3{
    	top:350px;
-	width:250px;
-	height: 3015px;/*Ajustar de acordo com a altura que ficar na página - só se for absolute*/
+	width:300px;
+	height: 2200px;/*Ajustar de acordo com a altura que ficar na página - só se for absolute*/
 	background:url(imagens/planetas.jpg) no-repeat;
 	z-index: 1;
 	left:25%;
