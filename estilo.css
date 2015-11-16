@@ -15,6 +15,44 @@
 
 /* implementação da kelly */
 
+a.zen-validate-html
+{
+    content: url(imagens/buraco_negro.png);
+    width: 114px;
+    height: 114px;  
+}  
+
+a.zen-validate-css
+{
+    content: url(imagens/cometa.png);
+    width: 114px;
+    height: 114px;  
+  
+}  
+
+a.zen-license
+{
+    content: url(imagens/estrela.png);
+    width: 114px;
+    height: 114px;    
+  
+}  
+
+a.zen-accessibility
+{
+    content: url(imagens/planeta.png);
+    width: 114px;
+    height: 114px;    
+}  
+
+a.zen-github
+{
+    content: url(imagens/satelite.png);
+    width: 114px;
+    height: 114px;     
+}  
+
+
 /* implementação do patreze */
 
 
