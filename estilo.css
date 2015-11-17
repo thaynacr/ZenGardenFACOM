@@ -53,6 +53,88 @@ a.zen-github
 }  
 
 
+#zen-preamble.preamble h3
+{
+  margin-top: 10px;
+  display: table;  
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+
+  -webkit-transform: rotate(-90deg) translate(-145px,-130px); 
+  -moz-transform: rotate(-90deg) translate(-145px,-130px);
+  -ms-transform: rotate(-90deg) translate(-145px,-130px);
+  -o-transform: rotate(-90deg) translate(-145px,-130px);	
+   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3); 
+}
+
+/*#zen-preamble.preamble p
+{
+	float: left;	
+}*/
+
+#zen-explanation.explanation h3
+{
+  margin-top: 5px;
+  display: table;  
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+
+  -webkit-transform: rotate(-90deg) translate(-125px,-115px); 
+  -moz-transform: rotate(-90deg) translate(-125px,-115px);
+  -ms-transform: rotate(-90deg) translate(-125px,-115px);
+  -o-transform: rotate(-90deg) translate(-125px,-115px);	
+   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3); 
+}
+
+
+#zen-participation.participation h3
+{
+   margin-top: 125px;
+  display: table;  
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+
+  -webkit-transform: rotate(-90deg) translate(-85px,-72px); 
+  -moz-transform: rotate(-90deg) translate(-85px,-72px);
+  -ms-transform: rotate(-90deg) translate(-85px,-72px);
+  -o-transform: rotate(-90deg) translate(-85px,-72px);	
+   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3); 
+}
+
+
+#zen-benefits.benefits h3
+{
+	margin-top: 125px;
+  display: table;  
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+
+  -webkit-transform: rotate(-90deg) translate(-65px,-52px); 
+  -moz-transform: rotate(-90deg) translate(-65px,-52px);
+  -ms-transform: rotate(-90deg) translate(-65px,-52px);
+  -o-transform: rotate(-90deg) translate(-65px,-52px);	
+   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3); 
+}
+
+
+#zen-requirements.requirements h3
+{
+	margin-top: 125px;
+  display: table;  
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+
+  -webkit-transform: rotate(-90deg) translate(-88px,-75px); 
+  -moz-transform: rotate(-90deg) translate(-88px,-75px);
+  -ms-transform: rotate(-90deg) translate(-88px,-75px);
+  -o-transform: rotate(-90deg) translate(-88px,-75px);	
+   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3); 
+}
 
 
 /* implementação do patreze */
