@@ -52,6 +52,12 @@ a.zen-github
     height: 114px;     
 }  
 
+footer
+{
+	margin-top: 80px;
+	margin-bottom: 80px;
+}
+
 
 #zen-preamble.preamble h3
 {
@@ -67,11 +73,6 @@ a.zen-github
   -o-transform: rotate(-90deg) translate(-145px,-130px);	
    filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3); 
 }
-
-/*#zen-preamble.preamble p
-{
-	float: left;	
-}*/
 
 #zen-explanation.explanation h3
 {
@@ -172,7 +173,7 @@ body{
 	height:400px;
 	z-index: 1;
 	left:60%;
-	margin-left:-300px;
+	margin-left:-370px;
 	position:absolute;
 	background: #122981 url(imagens/stnasa.png);
 }
@@ -241,6 +242,6 @@ h2 {
 	background:url(imagens/planetas3.png) no-repeat;
 	z-index: 1;
 	left:25%;
-	margin-left:-300px;
+	margin-left:-330px;
 	position:absolute;
 }
